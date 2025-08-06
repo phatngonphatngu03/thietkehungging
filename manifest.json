@@ -1,7 +1,7 @@
 {
-  "name": "Trợ Lý Thiết Kế",
-  "short_name": "Trợ Lý Thiết Kế",
-  "description": "Trợ Lý Thiết Kế - Pháp Môn Tâm Linh.",
+  "name": "Thiết Kế Hugging",
+  "short_name": "Thiết Kế Hugging",
+  "description": "Thiết Kế Hugging",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f0f2f5",
@@ -40,4 +40,5 @@
   ]
 
 }
+
 
